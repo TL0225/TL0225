@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt ="Linkedin" width = "26px" src="[<img align="left" alt ="Java" width = "26px" src="https://www.iconninja.com/files/339/421/151/linkedin-black-icon.png" />][Linkedin]
+[<img align="left" alt ="Linkedin" width = "26px" src="https://www.iconninja.com/files/339/421/151/linkedin-black-icon.png"/>][Linkedin]
 
 <br />
 
