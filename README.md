@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align= "left" alt ="Timothy | LinkedIn" width = 22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" />][Linkedin]
+[<img align= "left" alt ="Timothy | LinkedIn" width = 22px" src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo.png" />][Linkedin]
 
 <br />
 
