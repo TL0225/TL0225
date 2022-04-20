@@ -11,13 +11,6 @@
 
 <br />
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-git-master-tl0225.vercel.app/api/spotify)](https://open.spotify.com/user/899wn13n10fblgj45y83gdoep?si=5bf0771d23724e6a)
-
-
-
-
-
 ### Languages:
 
 [<img align="left" alt ="Java" width = "35px" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" />][Java]
@@ -27,3 +20,8 @@
 
 [Linkedin]:https://www.linkedin.com/in/timothy-leung-a754b1204/
 [Java]:https://java.com/en/
+
+<br />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-git-master-tl0225.vercel.app/api/spotify)](https://open.spotify.com/user/899wn13n10fblgj45y83gdoep?si=5bf0771d23724e6a)
