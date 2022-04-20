@@ -7,13 +7,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt ="Linkedin" width = "26px" src="https://www.iconninja.com/files/339/421/151/linkedin-black-icon.png"/>][Linkedin]
+[<img align="left" alt ="Linkedin" width = "35px" src="https://www.iconninja.com/files/339/421/151/linkedin-black-icon.png"/>][Linkedin]
 
 <br />
 
 ### Languages:
 
-[<img align="left" alt ="Java" width = "26px" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" />][Java]
+[<img align="left" alt ="Java" width = "35px" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" />][Java]
 
 <br />
 <br />
