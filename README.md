@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Timothy 👋 
 
-<!--
-**TL0225/TL0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an incoming college student at the University at Buffalo with a major in Computer Science B.S
+- 🥅 2022 Goals: Learn everything I can pixel by pixel
+- ⚡ Fun fact: I'm your average hard working student
+- 🌱 I’m currently reading up on the stock market 
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align= "left" alt ="Timothy | LinkedIn" width = 22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][Linkedin]
+
+<br />
+
+### Languages:
+
+[<img align="left" alt ="Java" width = "26px" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" />][Java]
+
+<br />
+<br />
+
+[Linkedin]:https://www.linkedin.com/in/timothy-leung-a754b1204/
+[Java]:https://java.com/en/
