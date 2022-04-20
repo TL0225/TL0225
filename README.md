@@ -12,7 +12,9 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src = "https://novatorem-rust-gamma.vercel.app/api/spotify-playing" alt="Timothy Spotify Playing" width="350" />](https://open.spotify.com/user/899wn13n10fblgj45y83gdoep?si=c3e089189ebe4b15)
+[![Spotify](https://novatorem-git-master-tl0225.vercel.app/api/spotify)](https://open.spotify.com/user/899wn13n10fblgj45y83gdoep?si=5bf0771d23724e6a)
+
+
 
 
 
