@@ -11,6 +11,11 @@
 
 <br />
 
+### Spotify Playing 🎧
+[<img src = "https://novatorem-rust-gamma.vercel.app/api/spotify-playing" alt="Timothy Spotify Playing" width="350" />](https://open.spotify.com/user/899wn13n10fblgj45y83gdoep?si=c3e089189ebe4b15)
+
+
+
 ### Languages:
 
 [<img align="left" alt ="Java" width = "35px" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" />][Java]
